@@ -1,0 +1,11 @@
+L:\C#\FindLenghth\FindLenghth\bin\Debug\netcoreapp2.1\FindLenghth.deps.json
+L:\C#\FindLenghth\FindLenghth\bin\Debug\netcoreapp2.1\FindLenghth.runtimeconfig.json
+L:\C#\FindLenghth\FindLenghth\bin\Debug\netcoreapp2.1\FindLenghth.runtimeconfig.dev.json
+L:\C#\FindLenghth\FindLenghth\bin\Debug\netcoreapp2.1\FindLenghth.dll
+L:\C#\FindLenghth\FindLenghth\bin\Debug\netcoreapp2.1\FindLenghth.pdb
+L:\C#\FindLenghth\FindLenghth\obj\Debug\netcoreapp2.1\FindLenghth.csprojAssemblyReference.cache
+L:\C#\FindLenghth\FindLenghth\obj\Debug\netcoreapp2.1\FindLenghth.csproj.CoreCompileInputs.cache
+L:\C#\FindLenghth\FindLenghth\obj\Debug\netcoreapp2.1\FindLenghth.AssemblyInfoInputs.cache
+L:\C#\FindLenghth\FindLenghth\obj\Debug\netcoreapp2.1\FindLenghth.AssemblyInfo.cs
+L:\C#\FindLenghth\FindLenghth\obj\Debug\netcoreapp2.1\FindLenghth.dll
+L:\C#\FindLenghth\FindLenghth\obj\Debug\netcoreapp2.1\FindLenghth.pdb

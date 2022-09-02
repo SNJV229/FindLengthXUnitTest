@@ -1,0 +1,17 @@
+L:\C#\FindLenghth\FindLengthTest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+L:\C#\FindLenghth\FindLengthTest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+L:\C#\FindLenghth\FindLengthTest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+L:\C#\FindLenghth\FindLengthTest\bin\Debug\netcoreapp2.1\FindLengthTest.deps.json
+L:\C#\FindLenghth\FindLengthTest\bin\Debug\netcoreapp2.1\FindLengthTest.runtimeconfig.json
+L:\C#\FindLenghth\FindLengthTest\bin\Debug\netcoreapp2.1\FindLengthTest.runtimeconfig.dev.json
+L:\C#\FindLenghth\FindLengthTest\bin\Debug\netcoreapp2.1\FindLengthTest.dll
+L:\C#\FindLenghth\FindLengthTest\bin\Debug\netcoreapp2.1\FindLengthTest.pdb
+L:\C#\FindLenghth\FindLengthTest\bin\Debug\netcoreapp2.1\FindLenghth.dll
+L:\C#\FindLenghth\FindLengthTest\bin\Debug\netcoreapp2.1\FindLenghth.pdb
+L:\C#\FindLenghth\FindLengthTest\obj\Debug\netcoreapp2.1\FindLengthTest.csprojAssemblyReference.cache
+L:\C#\FindLenghth\FindLengthTest\obj\Debug\netcoreapp2.1\FindLengthTest.csproj.CoreCompileInputs.cache
+L:\C#\FindLenghth\FindLengthTest\obj\Debug\netcoreapp2.1\FindLengthTest.AssemblyInfoInputs.cache
+L:\C#\FindLenghth\FindLengthTest\obj\Debug\netcoreapp2.1\FindLengthTest.AssemblyInfo.cs
+L:\C#\FindLenghth\FindLengthTest\obj\Debug\netcoreapp2.1\FindLengthTest.csproj.CopyComplete
+L:\C#\FindLenghth\FindLengthTest\obj\Debug\netcoreapp2.1\FindLengthTest.dll
+L:\C#\FindLenghth\FindLengthTest\obj\Debug\netcoreapp2.1\FindLengthTest.pdb
